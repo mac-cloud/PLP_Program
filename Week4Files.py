@@ -8,7 +8,7 @@ def main():
         with open(filename, "r") as file:
             content = file.read()
 
-        #Modify the content
+        # Modify the content
         modified_content = modify_file_content(content)
 
         #Write to new file
