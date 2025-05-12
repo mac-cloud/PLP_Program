@@ -3,6 +3,9 @@
 ## Description
 A relational database system to handle patient management, doctor scheduling, treatment records, and payment tracking in a clinical setting using MySQL.
 
+![ERD DIARGRAM](image1.png)
+![ERD DIARGRAM](image2.png)
+![ERD DIARGRAM](image3.png)
 ## How to Setup
 
 1. Install MySQL Server.
